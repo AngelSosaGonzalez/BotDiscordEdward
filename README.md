@@ -1,0 +1,2 @@
+# BotDiscordEdward
+ El objetivo de este proyecto básicamente es mostrar a Edward en otra presentación ahora en forma de Bot (bueno ese es su ser) pero en discord, en esta saga de Edward sera como un spin-off, ya que la esencia que busco con Edward es un Bot en forma de aplicación WEB, pero dejando eso de lado, uno de los puntos a también tomar con este proyecto es ver como funcionan los bots en lo que es Discord, aparte otros temas con respecto a los Bot
